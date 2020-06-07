@@ -23,3 +23,5 @@ dist/
 submit_test/
 # testing configuration
 testconfig.ini
+
+.env
